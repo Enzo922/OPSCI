@@ -30,3 +30,4 @@ export const movies = [
     image: "/images/spiritedaway.jpg"
   }
 ];
+
